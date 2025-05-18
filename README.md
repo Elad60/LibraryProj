@@ -1,3 +1,4 @@
+![Library UI Preview](Library.png)
 # 📚 Library Web
 
 **Library Web** is a full-stack digital library and bookstore platform that enables users to search, buy, sell, and manage books online. It offers a seamless reading and shopping experience with an intuitive interface and robust backend integration.
@@ -20,7 +21,7 @@
 - **Architecture**: RESTful API
 
 ## 🛠️ Architecture Overview
-
+![Library UI Preview](SQL Architecture.png)
 - **Frontend** connects to the backend via REST APIs.
 - **Backend** handles user authentication, book data, transactions, and analytics.
 - **Google Books API** is used to fetch book metadata for catalog population.
