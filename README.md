@@ -31,9 +31,3 @@
 
 - **User**: Browse books, manage a personal library, buy/sell books.
 - **Admin**: Manage users, track transactions, analyze engagement.
-
-## 📌 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/library-web.git
