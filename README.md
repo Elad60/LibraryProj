@@ -1,4 +1,4 @@
-# 📚 Library Web
+# 📚 Online Library
 ![Library UI Preview](Library.png)
 
 **Library Web** is a full-stack digital library and bookstore platform that enables users to search, buy, sell, and manage books online. It offers a seamless reading and shopping experience with an intuitive interface and robust backend integration.
